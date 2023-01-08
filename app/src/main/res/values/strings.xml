@@ -1,3 +1,8 @@
 <resources>
-    <string name="app_name">comage</string>
+    <string name="app_name">Comage</string>
+    <string name="shutdown_computer">Shutdown computer</string>
+    <string name="localhost_ip">127.0.0.1</string>
+    <string name="empty" />
+    <string name="default_port">8000</string>
+    <string name="confirm">confirm</string>
 </resources>
