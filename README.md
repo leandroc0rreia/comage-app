@@ -1,8 +1,8 @@
-# Comage Mobile App
-
 ## About
 This is the mobile app for the Comage project.
+<br>
 Comage App is a home computer management system that allows you to control your computer from your phone. 
+<br>
 It is currently in development, but in the future it will be available on the Google Play Store.
 
 ## Features
